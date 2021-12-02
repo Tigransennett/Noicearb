@@ -5,7 +5,7 @@ import './interfaces/IUniswapV2Router02.sol';
 import './interfaces/IUniswapV2Pair.sol';
 import './interfaces/IUniswapV2Factory.sol';
 import './interfaces/IERC20.sol';
-import './interfaces/SafeMaths.sol';
+import './interfaces/Copy_SafeMath.sol';
 
 
 contract Arbitrage {
