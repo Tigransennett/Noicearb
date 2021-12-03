@@ -14,3 +14,5 @@ If you can't make it past here, just stop.
 **Addresses**
 - Uniswap: 0xc0a47dFe034B400B47bDaD5FecDa2621de6c4d95
 - Sushiswap: 0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F
+
+### And for christ's sake, DON'T FUCK IT UP
