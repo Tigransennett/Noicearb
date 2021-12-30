@@ -12,7 +12,7 @@ If you can't make it past here, just stop.
 *double check to make sure these are accurate*
 
 **Addresses**
-- Uniswap: 0xc0a47dFe034B400B47bDaD5FecDa2621de6c4d95
+- Uniswap: 0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32
 - Sushiswap: 0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F
 
 ### And for christ's sake, DON'T FUCK IT UP
