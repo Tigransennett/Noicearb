@@ -8,6 +8,9 @@ does shit, makes money when it works
 Go to Remix and make a new folder called "arb". Inside the arb folder, make another folder called "interfaces". It is critical you do not fuck this up, because otherwise it will not compile.
 ### Compile
 If you can't make it past here, just stop.
+
+*Reminder to compile in pragma solidity ^0.6.6;*
+
 ### Add addresses and deploy
 *double check to make sure these are accurate*
 
